@@ -1,3 +1,3 @@
-<h1>**MoneyMate**</h1>
+<h1>MoneyMate</h1>
 
 It is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
